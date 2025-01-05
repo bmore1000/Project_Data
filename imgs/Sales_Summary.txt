@@ -1,0 +1,16 @@
+
+Resumo de Vendas:
+
+- Produto mais vendido: NEW MEGANIUM RG 40XXV
+- País com menor número de vendas: EUA
+- Produtos com menos vendas:
+  - MEGANIUM RG353M
+  - NEW MEGANIUM RG CubeXX
+  - NEW MEGANIUM RG28XX
+- Produtos com mais descontos:
+  - NEW MEGANIUM RG 40XXV
+  - NEW MEGANIUM RG35XX
+  - MEGANIUM RG353M
+- Quantidade total de vendas: 178 unidades
+- Valor total das vendas: $15.930
+- Idade média dos compradores: 40,47 anos

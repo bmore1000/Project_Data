@@ -42,6 +42,10 @@
 
 [ChatGPT Resultado] <a href="https://chatgpt.com/c/67799bfd-75bc-8006-b411-846bc15ee620" target="_blank"><img margin=10 width=200 src="./imgs/retorno_chatgpt.jpg" title="resultado" /></a>
 
+# Texto de retorno.
+
+Resumo de Vendas:
+
 ## Produto mais vendido:
 - NEW MEGANIUM RG 40XXV
 ## País com menor número de vendas:
